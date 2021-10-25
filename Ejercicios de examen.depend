@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1635201088 source:c:\users\pablu\documents\programacion\ejercicios de examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"vacunas.h"
+
+1635194176 c:\users\pablu\documents\programacion\ejercicios de examen\notebook.h
+	<stdio.h>
+	<stdlib.h>
+
+1635194191 source:c:\users\pablu\documents\programacion\ejercicios de examen\notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"notebook.h"
+
+1635201099 c:\users\pablu\documents\programacion\ejercicios de examen\vacunas.h
+	<stdio.h>
+	<stdlib.h>
+
+1635200794 source:c:\users\pablu\documents\programacion\ejercicios de examen\vacunas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"vacunas.h"
+
