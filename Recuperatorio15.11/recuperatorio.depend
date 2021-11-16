@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1637023043 source:c:\users\pablu\documents\programacion\recuperatorio\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1637004993 c:\users\pablu\documents\programacion\recuperatorio\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1637023270 source:c:\users\pablu\documents\programacion\recuperatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1637023723 source:c:\users\pablu\documents\programacion\examen progra\pablo.herndez.progra.1g\recuperatorio15.11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
+1637004993 c:\users\pablu\documents\programacion\examen progra\pablo.herndez.progra.1g\recuperatorio15.11\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1637023710 source:c:\users\pablu\documents\programacion\examen progra\pablo.herndez.progra.1g\recuperatorio15.11\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
+1637023724 c:\users\pablu\documents\programacion\examen progra\pablo.herndez.progra.1g\recuperatorio15.11\functions.h
+	<stdio.h>
+	<stdlib.h>
+
